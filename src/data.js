@@ -10,3 +10,5 @@ export const headstyle = {
 // export by default
 const tech = "React js"
 export default tech
+
+
